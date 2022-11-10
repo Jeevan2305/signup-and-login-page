@@ -192,12 +192,3 @@ body {
 small {
   font-size: 0.7em;
 }
-
-@-webkit-keyframes success {
-  from {
-    -webkit-transform: translate(-50%, -50%) rotate(0) scale(0);
-  }
-  to {
-    -webkit-transform: translate(-50%, -50%) rotate(-45deg) scale(1);
-  }
-}
